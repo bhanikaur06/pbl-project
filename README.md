@@ -1,2 +1,5 @@
-# pbl-project
-bhani kaur 2427030487 project name : path pulse
+# PBL-project
+vasaguddam varshitha (reg no ;2427030516)
+## 🌐 Live Project
+
+🔗 https://path-pulse.onrender.com
